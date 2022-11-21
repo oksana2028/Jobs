@@ -1,0 +1,14 @@
+com\cursova\smilka\service\CRUDService.class
+com\cursova\smilka\dao\impl\ConnectionDAOImpl.class
+com\cursova\smilka\config\security\UserDetailsServiceImpl.class
+com\cursova\smilka\dao\ConnectionDAO.class
+com\cursova\smilka\model\Connection.class
+com\cursova\smilka\dao\impl\UserDAOImpl.class
+com\cursova\smilka\dao\DAO.class
+com\cursova\smilka\dao\UserDAO.class
+com\cursova\smilka\service\impl\ConnectionServiceImpl.class
+com\cursova\smilka\model\Role.class
+com\cursova\smilka\service\UserService.class
+com\cursova\smilka\service\ConnectionService.class
+com\cursova\smilka\service\impl\UserServiceImpl.class
+com\cursova\smilka\model\User.class
